@@ -1,3 +1,4 @@
+// TODO SpringBootServletInitializer 상속 받아 servlet 초기화 시켜 주기
 //package com.doyoungcamp.aws.springbootapp;
 //
 //import org.springframework.boot.builder.SpringApplicationBuilder;
